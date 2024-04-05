@@ -1,0 +1,24 @@
+Using System;
+   {
+   Static void main ()
+   Console.WriteLine("employee class:");
+    employeeclass ec = New employee();
+    }
+    
+    Public Interface IQuittable
+    {
+End Interface
+Public void Quit();
+    }
+     void employee name();
+        }
+        Public Class employee: quit Interface(Of)
+            {
+            Public void Printmsg()
+                {
+                console.writeline("message from method:");
+                }
+                Public void employeename()
+                {
+                console.writeline("message from 2nd method:");
+                }
